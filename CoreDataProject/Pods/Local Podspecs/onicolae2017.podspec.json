@@ -1,0 +1,27 @@
+{
+  "name": "onicolae2017",
+  "version": "0.1.0",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "summary": "pod for ecole 42",
+  "description": "my very important pod",
+  "homepage": "https://github.com/cooldy555/onicolae2017",
+  "authors": {
+    "PROJECT_OWNER": "USER_EMAIL"
+  },
+  "source": {
+    "git": "https://github.com/cooldy555/onicolae2017.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Source/*.swift",
+  "resource_bundles": {
+    "onicolae2017": [
+      "Resources/**/*.{png}"
+    ]
+  }
+}

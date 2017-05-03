@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'CoreDataProject' do
+  pod 'onicolae2017', :path => '../'
+		  end

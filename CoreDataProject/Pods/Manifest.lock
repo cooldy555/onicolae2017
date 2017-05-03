@@ -1,0 +1,16 @@
+PODS:
+  - onicolae2017 (0.1.0)
+
+DEPENDENCIES:
+  - onicolae2017 (from `../`)
+
+EXTERNAL SOURCES:
+  onicolae2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  onicolae2017: 13e65d0edab145bb6a90ac76937413d77044efaa
+
+PODFILE CHECKSUM: 632929f2ed5d9d364fdf1dd418217196c45295ad
+
+COCOAPODS: 1.2.1
