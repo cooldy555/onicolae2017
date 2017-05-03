@@ -1,10 +1,4 @@
-//
-//  ArticleManager.swift
-//  Pods
-//
-//  Created by luc Casimir on 14/10/2016.
-//
-//
+
 
 import Foundation
 import CoreData
