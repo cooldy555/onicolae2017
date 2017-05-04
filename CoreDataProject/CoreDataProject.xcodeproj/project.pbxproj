@@ -10,7 +10,6 @@
 		2F9431B61EBA67FA00D7F3F9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9431B51EBA67FA00D7F3F9 /* AppDelegate.swift */; };
 		2F9431B81EBA67FA00D7F3F9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F9431B71EBA67FA00D7F3F9 /* ViewController.swift */; };
 		2F9431BB1EBA67FA00D7F3F9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F9431B91EBA67FA00D7F3F9 /* Main.storyboard */; };
-		2F9431BE1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2F9431BC1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodeld */; };
 		2F9431C01EBA67FA00D7F3F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F9431BF1EBA67FA00D7F3F9 /* Assets.xcassets */; };
 		2F9431C31EBA67FA00D7F3F9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F9431C11EBA67FA00D7F3F9 /* LaunchScreen.storyboard */; };
 		86A7D0CCFB7311CFD93F0A4C /* Pods_CoreDataProject.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 54F17BDCBB5907E96D2D8368 /* Pods_CoreDataProject.framework */; };
@@ -21,7 +20,6 @@
 		2F9431B51EBA67FA00D7F3F9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F9431B71EBA67FA00D7F3F9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		2F9431BA1EBA67FA00D7F3F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		2F9431BD1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CoreDataProject.xcdatamodel; sourceTree = "<group>"; };
 		2F9431BF1EBA67FA00D7F3F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F9431C21EBA67FA00D7F3F9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F9431C41EBA67FB00D7F3F9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -78,7 +76,6 @@
 				2F9431BF1EBA67FA00D7F3F9 /* Assets.xcassets */,
 				2F9431C11EBA67FA00D7F3F9 /* LaunchScreen.storyboard */,
 				2F9431C41EBA67FB00D7F3F9 /* Info.plist */,
-				2F9431BC1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodeld */,
 			);
 			path = CoreDataProject;
 			sourceTree = "<group>";
@@ -217,7 +214,6 @@
 			files = (
 				2F9431B81EBA67FA00D7F3F9 /* ViewController.swift in Sources */,
 				2F9431B61EBA67FA00D7F3F9 /* AppDelegate.swift in Sources */,
-				2F9431BE1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -383,21 +379,9 @@
 				2F9431C91EBA67FB00D7F3F9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCVersionGroup section */
-		2F9431BC1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodeld */ = {
-			isa = XCVersionGroup;
-			children = (
-				2F9431BD1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodel */,
-			);
-			currentVersion = 2F9431BD1EBA67FA00D7F3F9 /* CoreDataProject.xcdatamodel */;
-			path = CoreDataProject.xcdatamodeld;
-			sourceTree = "<group>";
-			versionGroupType = wrapper.xcdatamodel;
-		};
-/* End XCVersionGroup section */
 	};
 	rootObject = 2F9431AA1EBA67FA00D7F3F9 /* Project object */;
 }

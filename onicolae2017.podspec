@@ -15,12 +15,12 @@ Pod::Spec.new do |s|
                        DESC
 
   s.homepage         = 'https://github.com/cooldy555/onicolae2017'
-  s.authors = { 'PROJECT_OWNER' => 'USER_EMAIL' }
+  s.authors = { 'cooldy555' => 'cooldy555@yandex.ru' }
   s.source = { :git => 'https://github.com/cooldy555/onicolae2017.git', :tag => s.version }
   s.ios.deployment_target = '8.0'
   s.frameworks = 'UIKit', 'CoreData'
-  s.source_files = 'onicolae2017/Classes/**/*'
-  # s.resource_bundles = {
-  #   'onicolae2017' => ['Resources/**/*.{png}']
-  # }
+  s.source_files = 'onicolae2017/Classes/*.swift'
+  s.resource_bundles = {
+    'onicolae2017' => ['onicolae2017/Classes/*.xcdatamodeld']
+   }
 end

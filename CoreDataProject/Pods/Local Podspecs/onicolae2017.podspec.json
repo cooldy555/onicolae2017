@@ -9,7 +9,7 @@
   "description": "my very important pod",
   "homepage": "https://github.com/cooldy555/onicolae2017",
   "authors": {
-    "PROJECT_OWNER": "USER_EMAIL"
+    "cooldy555": "cooldy555@yandex.ru"
   },
   "source": {
     "git": "https://github.com/cooldy555/onicolae2017.git",
@@ -22,10 +22,10 @@
     "UIKit",
     "CoreData"
   ],
-  "source_files": "onicolae2017/Classes/**/*",
+  "source_files": "onicolae2017/Classes/*.swift",
   "resource_bundles": {
     "onicolae2017": [
-      "Resources/**/*.{png}"
+      "onicolae2017/Classes/*.xcdatamodeld"
     ]
   }
 }
