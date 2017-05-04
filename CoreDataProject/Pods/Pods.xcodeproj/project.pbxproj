@@ -7,74 +7,70 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0B28F37D1A6EFBA19F9CB5881BFC4DA8 /* onicolae2017-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = F65F68A4A7BC5FF91F2EC3F272B613DE /* onicolae2017-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		142472A9EBFF8B1D91D0AB2E28C01266 /* Pods-CoreDataProject-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 27667AE5CA7F13B94C98CB0578C5AB10 /* Pods-CoreDataProject-dummy.m */; };
-		27024E4539565FFAF6C9C55CDA381C19 /* onicolae2017-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DF10716893B216EF5CFA7B3C5BEDBD38 /* onicolae2017-dummy.m */; };
-		319CEDAE4BB2EA0157097B84509FA5BE /* onicolae2017.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2F8627842811866557F359633FA9 /* onicolae2017.bundle */; };
-		6B10CDFE43C525228109B5748DB13709 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		3B36141B80C1799C4818A4A554B074B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 567CC9627FCF9E142805D264D34518CC /* Foundation.framework */; };
+		4345B3ECDA46AE7E1EEB70C42769BE71 /* first.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0180F3A3E54D1D77BFD79D2317183779 /* first.swift */; };
+		6B10CDFE43C525228109B5748DB13709 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 567CC9627FCF9E142805D264D34518CC /* Foundation.framework */; };
+		8213ABC89F5F60E8DFC8A697B52673CB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65FD025D71C79552EB4B3C43A32AA6ED /* UIKit.framework */; };
+		850D21E5886BF4124ED544F02C02790C /* onicolae2017.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F2FB2F8627842811866557F359633FA9 /* onicolae2017.bundle */; };
 		8B1A032B20A7EA61C5469200269D6FA8 /* Pods-CoreDataProject-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 526332CDAE9C67F6EFB6B52F28FE28D2 /* Pods-CoreDataProject-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A46D670D724967B5045288F14CAFA506 /* onicolae2017-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FC0A52B5C4D6DA1FC026C473CF886131 /* onicolae2017-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D2C0224DEA94B248B1F1313E409C9575 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		D7F44FF0A1C607BDEE35C4B1C9D3029E /* onicolae2017.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7B4D64F595EDDC95BBA7078E44DEC0 /* onicolae2017.swift */; };
-		D84BE6D4DB6CF91F59DA3469FDC255D3 /* wk.png in Resources */ = {isa = PBXBuildFile; fileRef = 16A241225AC5274635DC6466D6E531FC /* wk.png */; };
+		9904907C50E39C455C2B0F23FEA29878 /* onicolae2017-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = DF3C9A627CA032D221914AAC088A2733 /* onicolae2017-dummy.m */; };
+		BBF5829DF94E30DC9C48EB06553B2CBD /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6788C15B51D04030F9334A66BAF4776E /* CoreData.framework */; };
+		D635309FF38EC8B7A2EB6FEA57784E0C /* wk.png in Resources */ = {isa = PBXBuildFile; fileRef = 74B2F93F4D1883FC63FA9FB7549091C0 /* wk.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		5F2F980CD58BD9F9E616A8CC86048680 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = D503703D33472273319D6931AC1B012F;
-			remoteInfo = "onicolae2017-onicolae2017";
-		};
 		6618A96A17209B3A1789C6D6315DC054 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F65F6FB12E5A53E2534C33B4622C8DB3;
+			remoteGlobalIDString = 2B20FC914920FE9D4DB94EC0943E1F39;
 			remoteInfo = onicolae2017;
+		};
+		6F4B1179D57E93626A89417F5A7DF378 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 64149107A102F595F79644228A4DE816;
+			remoteInfo = "onicolae2017-onicolae2017";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		16A241225AC5274635DC6466D6E531FC /* wk.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = wk.png; sourceTree = "<group>"; };
+		0180F3A3E54D1D77BFD79D2317183779 /* first.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = first.swift; sourceTree = "<group>"; };
 		27667AE5CA7F13B94C98CB0578C5AB10 /* Pods-CoreDataProject-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CoreDataProject-dummy.m"; sourceTree = "<group>"; };
 		370CE8ADB68C5DFB33CB33148DC2C8AA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		382588CC981E1C3DA865402C487ADB65 /* onicolae2017.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = onicolae2017.modulemap; sourceTree = "<group>"; };
-		391F9120BCA889CAF062E6D9E2DE678B /* ResourceBundle-onicolae2017-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-onicolae2017-Info.plist"; sourceTree = "<group>"; };
-		3B08853BAFC506673A9396B8619FA1DA /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		447C50ACC294C1A04421C3B1B2ADBFFF /* onicolae2017.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = onicolae2017.framework; path = onicolae2017.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		48ECCFE7DF9B4291ADB37E2555045562 /* Pods-CoreDataProject.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-CoreDataProject.modulemap"; sourceTree = "<group>"; };
-		4B7B4D64F595EDDC95BBA7078E44DEC0 /* onicolae2017.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = onicolae2017.swift; sourceTree = "<group>"; };
+		4EBB8D1AF8A4A553364286D5A2BE3C1C /* onicolae2017-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "onicolae2017-prefix.pch"; sourceTree = "<group>"; };
 		526332CDAE9C67F6EFB6B52F28FE28D2 /* Pods-CoreDataProject-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CoreDataProject-umbrella.h"; sourceTree = "<group>"; };
-		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		567CC9627FCF9E142805D264D34518CC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		65FD025D71C79552EB4B3C43A32AA6ED /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		6788C15B51D04030F9334A66BAF4776E /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/CoreData.framework; sourceTree = DEVELOPER_DIR; };
+		74B2F93F4D1883FC63FA9FB7549091C0 /* wk.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = wk.png; sourceTree = "<group>"; };
+		7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = onicolae2017.xcconfig; sourceTree = "<group>"; };
 		880F386AA2E27E01C8ACAB41FD2281B5 /* Pods-CoreDataProject.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CoreDataProject.release.xcconfig"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		97C12441185AC327EA4F0C96A75A5FE7 /* Pods-CoreDataProject.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CoreDataProject.debug.xcconfig"; sourceTree = "<group>"; };
-		9866ECDA66C5DE84A649A6F278FFC8DC /* onicolae2017-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "onicolae2017-prefix.pch"; sourceTree = "<group>"; };
 		A063F6B84C1C083447E738466693DE70 /* Pods-CoreDataProject-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CoreDataProject-acknowledgements.markdown"; sourceTree = "<group>"; };
 		A56E46D7B83AB23F985196B31C6FA3DA /* Pods-CoreDataProject-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CoreDataProject-frameworks.sh"; sourceTree = "<group>"; };
 		B24AB1268808C93A8C27365F5F713510 /* Pods-CoreDataProject-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CoreDataProject-acknowledgements.plist"; sourceTree = "<group>"; };
-		DF10716893B216EF5CFA7B3C5BEDBD38 /* onicolae2017-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "onicolae2017-dummy.m"; sourceTree = "<group>"; };
+		DE994F8375B038C31EC98C745D9DC18B /* ResourceBundle-onicolae2017-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-onicolae2017-Info.plist"; sourceTree = "<group>"; };
+		DF3C9A627CA032D221914AAC088A2733 /* onicolae2017-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "onicolae2017-dummy.m"; sourceTree = "<group>"; };
+		E87C1D7040A951F8904433B738E99923 /* onicolae2017.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = onicolae2017.modulemap; sourceTree = "<group>"; };
+		EAA62EF456CCBC8319099D47EF0746A0 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F0360808709AAEC1F4104C296B884640 /* Pods_CoreDataProject.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CoreDataProject.framework; path = "Pods-CoreDataProject.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2FB2F8627842811866557F359633FA9 /* onicolae2017.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = onicolae2017.bundle; path = onicolae2017.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
-		F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = onicolae2017.xcconfig; sourceTree = "<group>"; };
+		F65F68A4A7BC5FF91F2EC3F272B613DE /* onicolae2017-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "onicolae2017-umbrella.h"; sourceTree = "<group>"; };
 		F86DB94C49BEAF85ECA82D03010CE18E /* Pods-CoreDataProject-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-CoreDataProject-resources.sh"; sourceTree = "<group>"; };
-		FC0A52B5C4D6DA1FC026C473CF886131 /* onicolae2017-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "onicolae2017-umbrella.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7E225D7DCE0D17943F9EB17C99CED571 /* Frameworks */ = {
+		208F29833F4B01908B148EB210E5C67B /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		9E35CD6368DAFAB630BB40C5465D248A /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				D2C0224DEA94B248B1F1313E409C9575 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,9 +82,28 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E2D090010349D5B35EC904AA2A850F60 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BBF5829DF94E30DC9C48EB06553B2CBD /* CoreData.framework in Frameworks */,
+				3B36141B80C1799C4818A4A554B074B1 /* Foundation.framework in Frameworks */,
+				8213ABC89F5F60E8DFC8A697B52673CB /* UIKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0118772973CD28A7DD73BB1CB4DFFDBC /* onicolae2017 */ = {
+			isa = PBXGroup;
+			children = (
+				89ADE0EE0B452FB0C24BC22EA0670799 /* Classes */,
+			);
+			name = onicolae2017;
+			path = onicolae2017;
+			sourceTree = "<group>";
+		};
 		0D744DD7B1E70464F8333B9C5514C032 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -97,13 +112,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		2B26325669BC2C525E1DD2BB06BA1F64 /* Source */ = {
+		122DA2E5084A4393C29BE363C764795C /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				4B7B4D64F595EDDC95BBA7078E44DEC0 /* onicolae2017.swift */,
+				A95125708E742DC1F60FE6F7AFFAD0EA /* iOS */,
 			);
-			name = Source;
-			path = Source;
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		2FBF9F053A811A730A534FD5A192B250 /* Pods-CoreDataProject */ = {
@@ -124,6 +138,14 @@
 			path = "Target Support Files/Pods-CoreDataProject";
 			sourceTree = "<group>";
 		};
+		3625E48A3F23267CA1A1713FDBC377BC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				763258447C4814176C9067BBC98740AF /* Resources */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		54E01B9B591FF72201B6883D6A927C71 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -134,79 +156,74 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		7DB346D0F39D3F0E887471402A8071AB = {
+		763258447C4814176C9067BBC98740AF /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
-				AE4BF42AD7B69333B538A9F635183A5B /* Development Pods */,
-				BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */,
-				54E01B9B591FF72201B6883D6A927C71 /* Products */,
-				0D744DD7B1E70464F8333B9C5514C032 /* Targets Support Files */,
-			);
-			sourceTree = "<group>";
-		};
-		AE4BF42AD7B69333B538A9F635183A5B /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				F48B0144FC541A8484E384C2AFDDC519 /* onicolae2017 */,
-			);
-			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		C4AB323F962F3E311848AE3C967C27D8 /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				16A241225AC5274635DC6466D6E531FC /* wk.png */,
+				74B2F93F4D1883FC63FA9FB7549091C0 /* wk.png */,
 			);
 			name = Resources;
 			path = Resources;
 			sourceTree = "<group>";
 		};
-		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
+		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
-				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
+				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
+				AE4BF42AD7B69333B538A9F635183A5B /* Development Pods */,
+				122DA2E5084A4393C29BE363C764795C /* Frameworks */,
+				54E01B9B591FF72201B6883D6A927C71 /* Products */,
+				0D744DD7B1E70464F8333B9C5514C032 /* Targets Support Files */,
 			);
-			name = iOS;
 			sourceTree = "<group>";
 		};
-		DEF3B771088380AC8EE74F1FB913C64C /* Support Files */ = {
+		89ADE0EE0B452FB0C24BC22EA0670799 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				3B08853BAFC506673A9396B8619FA1DA /* Info.plist */,
-				382588CC981E1C3DA865402C487ADB65 /* onicolae2017.modulemap */,
-				F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */,
-				DF10716893B216EF5CFA7B3C5BEDBD38 /* onicolae2017-dummy.m */,
-				9866ECDA66C5DE84A649A6F278FFC8DC /* onicolae2017-prefix.pch */,
-				FC0A52B5C4D6DA1FC026C473CF886131 /* onicolae2017-umbrella.h */,
-				391F9120BCA889CAF062E6D9E2DE678B /* ResourceBundle-onicolae2017-Info.plist */,
+				0180F3A3E54D1D77BFD79D2317183779 /* first.swift */,
+			);
+			name = Classes;
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		A4CD703049DA1012AFAA348A91FB1D3F /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				EAA62EF456CCBC8319099D47EF0746A0 /* Info.plist */,
+				E87C1D7040A951F8904433B738E99923 /* onicolae2017.modulemap */,
+				7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */,
+				DF3C9A627CA032D221914AAC088A2733 /* onicolae2017-dummy.m */,
+				4EBB8D1AF8A4A553364286D5A2BE3C1C /* onicolae2017-prefix.pch */,
+				F65F68A4A7BC5FF91F2EC3F272B613DE /* onicolae2017-umbrella.h */,
+				DE994F8375B038C31EC98C745D9DC18B /* ResourceBundle-onicolae2017-Info.plist */,
 			);
 			name = "Support Files";
 			path = "CoreDataProject/Pods/Target Support Files/onicolae2017";
 			sourceTree = "<group>";
 		};
-		EA428F239589683464FFD177591AA138 /* Resources */ = {
+		A95125708E742DC1F60FE6F7AFFAD0EA /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				C4AB323F962F3E311848AE3C967C27D8 /* Resources */,
+				6788C15B51D04030F9334A66BAF4776E /* CoreData.framework */,
+				567CC9627FCF9E142805D264D34518CC /* Foundation.framework */,
+				65FD025D71C79552EB4B3C43A32AA6ED /* UIKit.framework */,
 			);
-			name = Resources;
+			name = iOS;
 			sourceTree = "<group>";
 		};
-		F48B0144FC541A8484E384C2AFDDC519 /* onicolae2017 */ = {
+		AE4BF42AD7B69333B538A9F635183A5B /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				EA428F239589683464FFD177591AA138 /* Resources */,
-				2B26325669BC2C525E1DD2BB06BA1F64 /* Source */,
-				DEF3B771088380AC8EE74F1FB913C64C /* Support Files */,
+				E01FBEB1CC72A6D23597212064E67B19 /* onicolae2017 */,
+			);
+			name = "Development Pods";
+			sourceTree = "<group>";
+		};
+		E01FBEB1CC72A6D23597212064E67B19 /* onicolae2017 */ = {
+			isa = PBXGroup;
+			children = (
+				0118772973CD28A7DD73BB1CB4DFFDBC /* onicolae2017 */,
+				3625E48A3F23267CA1A1713FDBC377BC /* Resources */,
+				A4CD703049DA1012AFAA348A91FB1D3F /* Support Files */,
 			);
 			name = onicolae2017;
 			path = ../..;
@@ -215,19 +232,19 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		61F69D229983E08EFB2D0E717896E006 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0B28F37D1A6EFBA19F9CB5881BFC4DA8 /* onicolae2017-umbrella.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		70A87A6A667001CCFA174736C3A7680C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				8B1A032B20A7EA61C5469200269D6FA8 /* Pods-CoreDataProject-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		7B308F844FAAF75A7553A9B042C4D817 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				A46D670D724967B5045288F14CAFA506 /* onicolae2017-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,13 +269,32 @@
 			productReference = F0360808709AAEC1F4104C296B884640 /* Pods_CoreDataProject.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		D503703D33472273319D6931AC1B012F /* onicolae2017-onicolae2017 */ = {
+		2B20FC914920FE9D4DB94EC0943E1F39 /* onicolae2017 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EF090B08373D59C5ABCCF94ED346C81E /* Build configuration list for PBXNativeTarget "onicolae2017-onicolae2017" */;
+			buildConfigurationList = A31697DAFC5A6AAF692A212C8E1C2920 /* Build configuration list for PBXNativeTarget "onicolae2017" */;
 			buildPhases = (
-				3E06B6A05DF43393E56175586264A079 /* Sources */,
-				7E225D7DCE0D17943F9EB17C99CED571 /* Frameworks */,
-				C5E914DA46DC268B66FB96374CB26DA2 /* Resources */,
+				6DC31F291E98C195EA915494196FB758 /* Sources */,
+				E2D090010349D5B35EC904AA2A850F60 /* Frameworks */,
+				2B4C628B19C1806985FEFE8E1999D1CB /* Resources */,
+				61F69D229983E08EFB2D0E717896E006 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D41DBF5A688E8B8D93E1F16B3537171F /* PBXTargetDependency */,
+			);
+			name = onicolae2017;
+			productName = onicolae2017;
+			productReference = 447C50ACC294C1A04421C3B1B2ADBFFF /* onicolae2017.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		64149107A102F595F79644228A4DE816 /* onicolae2017-onicolae2017 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6218715F8706872162518642EEA67893 /* Build configuration list for PBXNativeTarget "onicolae2017-onicolae2017" */;
+			buildPhases = (
+				0B7C9709C6E4F9768B27DDEE619601A7 /* Sources */,
+				208F29833F4B01908B148EB210E5C67B /* Frameworks */,
+				F9838308AF47AB69395950AA27490753 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -268,25 +304,6 @@
 			productName = "onicolae2017-onicolae2017";
 			productReference = F2FB2F8627842811866557F359633FA9 /* onicolae2017.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		F65F6FB12E5A53E2534C33B4622C8DB3 /* onicolae2017 */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 2FFAFBF31055D31C1541B016F80ED25B /* Build configuration list for PBXNativeTarget "onicolae2017" */;
-			buildPhases = (
-				7562F2B2AFB7E50FEFCF766B676865E1 /* Sources */,
-				9E35CD6368DAFAB630BB40C5465D248A /* Frameworks */,
-				D65C9E737091E341F87680E31BBA9C99 /* Resources */,
-				7B308F844FAAF75A7553A9B042C4D817 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				20BB42D06BA46640D7CB352361C62B0E /* PBXTargetDependency */,
-			);
-			name = onicolae2017;
-			productName = onicolae2017;
-			productReference = 447C50ACC294C1A04421C3B1B2ADBFFF /* onicolae2017.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
@@ -309,46 +326,46 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F65F6FB12E5A53E2534C33B4622C8DB3 /* onicolae2017 */,
-				D503703D33472273319D6931AC1B012F /* onicolae2017-onicolae2017 */,
+				2B20FC914920FE9D4DB94EC0943E1F39 /* onicolae2017 */,
+				64149107A102F595F79644228A4DE816 /* onicolae2017-onicolae2017 */,
 				0024B3EB87454E566035E59A9B08DB7F /* Pods-CoreDataProject */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		C5E914DA46DC268B66FB96374CB26DA2 /* Resources */ = {
+		2B4C628B19C1806985FEFE8E1999D1CB /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D84BE6D4DB6CF91F59DA3469FDC255D3 /* wk.png in Resources */,
+				850D21E5886BF4124ED544F02C02790C /* onicolae2017.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D65C9E737091E341F87680E31BBA9C99 /* Resources */ = {
+		F9838308AF47AB69395950AA27490753 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				319CEDAE4BB2EA0157097B84509FA5BE /* onicolae2017.bundle in Resources */,
+				D635309FF38EC8B7A2EB6FEA57784E0C /* wk.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3E06B6A05DF43393E56175586264A079 /* Sources */ = {
+		0B7C9709C6E4F9768B27DDEE619601A7 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7562F2B2AFB7E50FEFCF766B676865E1 /* Sources */ = {
+		6DC31F291E98C195EA915494196FB758 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				27024E4539565FFAF6C9C55CDA381C19 /* onicolae2017-dummy.m in Sources */,
-				D7F44FF0A1C607BDEE35C4B1C9D3029E /* onicolae2017.swift in Sources */,
+				4345B3ECDA46AE7E1EEB70C42769BE71 /* first.swift in Sources */,
+				9904907C50E39C455C2B0F23FEA29878 /* onicolae2017-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -363,16 +380,16 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		20BB42D06BA46640D7CB352361C62B0E /* PBXTargetDependency */ = {
+		D41DBF5A688E8B8D93E1F16B3537171F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "onicolae2017-onicolae2017";
-			target = D503703D33472273319D6931AC1B012F /* onicolae2017-onicolae2017 */;
-			targetProxy = 5F2F980CD58BD9F9E616A8CC86048680 /* PBXContainerItemProxy */;
+			target = 64149107A102F595F79644228A4DE816 /* onicolae2017-onicolae2017 */;
+			targetProxy = 6F4B1179D57E93626A89417F5A7DF378 /* PBXContainerItemProxy */;
 		};
 		F047859BAE464332B1C8285DA7F51B1F /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = onicolae2017;
-			target = F65F6FB12E5A53E2534C33B4622C8DB3 /* onicolae2017 */;
+			target = 2B20FC914920FE9D4DB94EC0943E1F39 /* onicolae2017 */;
 			targetProxy = 6618A96A17209B3A1789C6D6315DC054 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -417,16 +434,33 @@
 			};
 			name = Debug;
 		};
-		099A89AC6DA5CEED46C88E18BF07256C /* Release */ = {
+		0498C43E200BE19A109D60661F7D38DA /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */;
+			baseConfigurationReference = 7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/onicolae2017";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/onicolae2017/ResourceBundle-onicolae2017-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = onicolae2017;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		078DB510477C3552CB59E26A877D4E57 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -439,15 +473,33 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/onicolae2017/onicolae2017.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_ENABLE_DEBUG_INFO = YES;
 				PRODUCT_NAME = onicolae2017;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		160D6E8CE06A97578A27F53A77CBE3E9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/onicolae2017";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/onicolae2017/ResourceBundle-onicolae2017-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = onicolae2017;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -499,16 +551,16 @@
 			};
 			name = Debug;
 		};
-		52C022D4B7896BD9E3B7EBAE9D95E084 /* Debug */ = {
+		22907F21118E7D8B2EF238981C852AE5 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */;
+			baseConfigurationReference = 7C529184B98861881DEBC6F850C3C805 /* onicolae2017.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
@@ -521,33 +573,15 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MODULEMAP_FILE = "Target Support Files/onicolae2017/onicolae2017.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
 				PRODUCT_NAME = onicolae2017;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		7881BE6D6241AC2DDA3C20E460770B91 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/onicolae2017";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/onicolae2017/ResourceBundle-onicolae2017-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = onicolae2017;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -633,23 +667,6 @@
 			};
 			name = Release;
 		};
-		F91147BD0A650AC50F4A2EC022C6B322 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = F57C9869F38DA0F7B2E3905C67BF8BC8 /* onicolae2017.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/onicolae2017";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/onicolae2017/ResourceBundle-onicolae2017-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = onicolae2017;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -658,15 +675,6 @@
 			buildConfigurations = (
 				166E2CAC58E8608AD59A6F0B71C9C3E0 /* Debug */,
 				AA0B5BDEB018901CD8F88AAD05F5B893 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		2FFAFBF31055D31C1541B016F80ED25B /* Build configuration list for PBXNativeTarget "onicolae2017" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				52C022D4B7896BD9E3B7EBAE9D95E084 /* Debug */,
-				099A89AC6DA5CEED46C88E18BF07256C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -680,11 +688,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EF090B08373D59C5ABCCF94ED346C81E /* Build configuration list for PBXNativeTarget "onicolae2017-onicolae2017" */ = {
+		6218715F8706872162518642EEA67893 /* Build configuration list for PBXNativeTarget "onicolae2017-onicolae2017" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F91147BD0A650AC50F4A2EC022C6B322 /* Debug */,
-				7881BE6D6241AC2DDA3C20E460770B91 /* Release */,
+				0498C43E200BE19A109D60661F7D38DA /* Debug */,
+				160D6E8CE06A97578A27F53A77CBE3E9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A31697DAFC5A6AAF692A212C8E1C2920 /* Build configuration list for PBXNativeTarget "onicolae2017" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				078DB510477C3552CB59E26A877D4E57 /* Debug */,
+				22907F21118E7D8B2EF238981C852AE5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

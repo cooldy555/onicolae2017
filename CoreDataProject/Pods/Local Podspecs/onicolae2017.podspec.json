@@ -18,7 +18,11 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "Source/*.swift",
+  "frameworks": [
+    "UIKit",
+    "CoreData"
+  ],
+  "source_files": "onicolae2017/Classes/**/*",
   "resource_bundles": {
     "onicolae2017": [
       "Resources/**/*.{png}"

@@ -18,8 +18,9 @@ Pod::Spec.new do |s|
   s.authors = { 'PROJECT_OWNER' => 'USER_EMAIL' }
   s.source = { :git => 'https://github.com/cooldy555/onicolae2017.git', :tag => s.version }
   s.ios.deployment_target = '8.0'
-  s.source_files = 'Source/*.swift'
-  s.resource_bundles = {
-    'onicolae2017' => ['Resources/**/*.{png}']
-  }
+  s.frameworks = 'UIKit', 'CoreData'
+  s.source_files = 'onicolae2017/Classes/**/*'
+  # s.resource_bundles = {
+  #   'onicolae2017' => ['Resources/**/*.{png}']
+  # }
 end
